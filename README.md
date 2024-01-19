@@ -1,6 +1,6 @@
 # Piano Simulator
 
-![](piano-simulator.png)
+![](piano-simulator-keys.png)
 
 In this project you can find a virtual piano made using the following technologies:
 
